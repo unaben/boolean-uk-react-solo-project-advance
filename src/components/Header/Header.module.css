@@ -1,0 +1,39 @@
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    /*Opacity start*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.80;
+    -khtml-opacity: 0.8;
+    opacity: 0.8;
+    /*Opacity end*/
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 50px;
+    padding: 1rem;
+    margin: 0;
+}
+
+.button-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.btn {
+    padding: 0.3rem 3rem;
+}
+
+.btn-cancel {
+    padding: 0.4rem 3rem;
+    background-color: rgb(203, 36, 36);
+    color: white;
+    border: none;
+}

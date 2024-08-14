@@ -1,0 +1,86 @@
+{
+  "listings": [
+    {
+      "id": "~rmj5fvc",
+      "title": "n",
+      "description": "gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum",
+      "price": "20000",
+      "soldVehicle": false,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXsAH7ogJwvKDyrwXIAIBJRKU2IvNF0Q_yQ154mVLjKaIHu-FxGvb6fnC7przMyjPq_3T7LaKM4d47JpVShRsHI8m_tO_0YaDysgrVQFsZbbZ8U1BvDXLf51KV&s=3",
+      "carId": "_9gyls1gmt"
+    },
+    {
+      "id": "~z46pys3",
+      "title": "x",
+      "description": "gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum",
+      "price": "12000",
+      "soldVehicle": false,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg5GkhsA2l0KhrFqCS-xb0gvEcPNAyJ-LnBAVHir8Ntr-0PMiqK1iQ7CtEaC-E6wVRBnOSQka9CfbqLei0GomVT2o1AzcYdAzZfecCMMBty3IKzrUs_xxCyls&s=3",
+      "carId": "_yf6tjoqa7"
+    },
+    {
+      "id": "~icujtf0",
+      "title": "x",
+      "description": "Amazing blue",
+      "price": "12000",
+      "soldVehicle": false,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCSD994v8dRtb5nxMvhNXiQE9mUcSSU3qsZas7wReiY0ZVwy7Q2BKdFWsGQh56BbcTDjsBMd7ct6ifl4k-t1qE4Cm8Rw64eIMlnUo4LHtRPUm1JtDt1YAN0Y&s=3",
+      "carId": "_b3yw72m7i"
+    },
+    {
+      "id": "~1l867eh",
+      "title": "x",
+      "description": "gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum",
+      "price": "12000",
+      "soldVehicle": false,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCSD994v8dRtb5nxMvhNXiQE9mUcSSU3qsZas7wReiY0ZVwy7Q2BKdFWsGQh56BbcTDjsBMd7ct6ifl4k-t1qE4Cm8Rw64eIMlnUo4LHtRPUm1JtDt1YAN0Y&s=3",
+      "carId": "_b432inc75"
+    },
+    {
+      "id": "~13t8ef4",
+      "title": "x",
+      "description": "gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum",
+      "price": "20000",
+      "soldVehicle": false,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg5GkhsA2l0KhrFqCS-xb0gvEcPNAyJ-LnBAVHir8Ntr-0PMiqK1iQ7CtEaC-E6wVRBnOSQka9CfbqLei0GomVT2o1AzcYdAzZfecCMMBty3IKzrUs_xxCyls&s=3",
+      "carId": "_1m15ot5vo"
+    }
+  ],
+  "cars": [
+    {
+      "id": "_9gyls1gmt",
+      "make": "Mazda",
+      "model": "MX-30",
+      "color": "Black",
+      "year": "1990"
+    },
+    {
+      "id": "_yf6tjoqa7",
+      "make": "BMW",
+      "model": "X5",
+      "color": "Black",
+      "year": "1990"
+    },
+    {
+      "id": "_b3yw72m7i",
+      "make": "Ford",
+      "model": "Galaxy",
+      "color": "Blue",
+      "year": "1990"
+    },
+    {
+      "id": "_b432inc75",
+      "make": "BMW",
+      "model": "X7",
+      "color": "Blue",
+      "year": "1990"
+    },
+    {
+      "id": "_1m15ot5vo",
+      "make": "BMW",
+      "model": "X5",
+      "color": "White",
+      "year": "1970"
+    }
+  ]
+}

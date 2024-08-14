@@ -1,0 +1,23 @@
+.image-content img{
+  margin-bottom: 0.5rem;
+}
+
+.btn {
+  margin-top: 0.5rem;
+  padding: 0.3rem 3rem;
+}
+
+.text-content {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.5;
+}
+
+.list-items {
+  background-color: whitesmoke;
+  color: black;
+  padding: 1rem;
+  min-height: 4rem;
+}
+
+
