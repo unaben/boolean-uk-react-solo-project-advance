@@ -13,7 +13,7 @@ const List = ({ listing }: { listing: ICombinedState }) => {
     <li className={styles["list-items"]}>
       <div className={styles["image-content"]}>
         <div>
-          <img width="100%" height="200px" src={listing.image} alt="" />
+          <img width="100%" height="220px" src={listing.image} alt="" />
           <div>
             <p>
               {listing.make} {listing.model}
