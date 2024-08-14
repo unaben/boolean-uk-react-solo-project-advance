@@ -37,7 +37,7 @@ const InventorySectionForm = () => {
     }
 
     const id = generateRandomId();
-    console.log('generateRandomId:',{id});
+    
     const newlist = await postListingData(listing, soldVehicle, id);
     const newcar = await postCarData(carData, id);
 

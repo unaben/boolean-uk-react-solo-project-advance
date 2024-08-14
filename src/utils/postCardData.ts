@@ -10,7 +10,7 @@ const postCarData = async (carData: ICar, id: string) => {
     color: carData.color,
     year: carData.year,
   };
-  console.log('car:',{id});
+  
   const fetchOptions = {
     method: "POST",
     headers: {

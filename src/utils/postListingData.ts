@@ -16,7 +16,6 @@ const postListingData = async (
     image: listing.image,
     carId: id,
   };
-console.log('listing:',{id});
 
   const fetchOptions = {
     method: "POST",
